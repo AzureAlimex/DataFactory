@@ -1,0 +1,6 @@
+{
+	"name": "SQLServerDWH",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

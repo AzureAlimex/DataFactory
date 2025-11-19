@@ -1,0 +1,6 @@
+{
+	"name": "SQLServerErpax",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

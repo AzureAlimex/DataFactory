@@ -1,0 +1,17 @@
+{
+	"name": "RestService1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://api.businesscentral.dynamics.com/v2.0/4909634a-9fdb-42c4-9076-ff3be4f97da8/BC-TEST/api/v2.0/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "AadServicePrincipal",
+			"servicePrincipalId": "628f057b-7d56-4c76-8ef5-b50c6d463aec",
+			"tenant": "4909634a-9fdb-42c4-9076-ff3be4f97da8",
+			"aadResourceId": "https://api.businesscentral.dynamics.com",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEIzRDRGRjk2LTJFNDgtNDJFQS04N0ZBLUJGMUVGNzUzNTlGNV9lZDFhNGE2My05YWQ3LTRhNmItOWFhNi1lNzlkZWQ3NTYzYTUiDQp9"
+		}
+	}
+}

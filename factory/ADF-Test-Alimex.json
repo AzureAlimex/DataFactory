@@ -1,0 +1,14 @@
+{
+	"name": "ADF-Test-Alimex",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "chilecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd81ee3c-deb9-4f17-a6b7-c644a748bfd8",
+		"tenantId": "4909634a-9fdb-42c4-9076-ff3be4f97da8"
+	}
+}
